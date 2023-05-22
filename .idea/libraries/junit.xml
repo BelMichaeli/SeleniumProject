@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="junit">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AutoLib/junit" />
+      <root url="file://$PROJECT_DIR$/../../AutoLib/selenium" />
+      <root url="file://$USER_HOME$/Downloads/jar_files" />
+      <root url="file://$USER_HOME$/Downloads/jar_files (1)" />
+      <root url="jar://$PROJECT_DIR$/../../AutoLib/extent reports/commons-io-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../AutoLib/extent reports/extentreports-4.0.9/extentreports-4.0.9/dependency/javadoc/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../AutoLib/selenium" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../AutoLib/junit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../AutoLib/selenium" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar_files (1)" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../AutoLib/selenium" recursive="false" type="SOURCES" />
+  </library>
+</component>

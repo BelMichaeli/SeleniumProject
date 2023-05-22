@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <sign_in_page>
+        <title>התחבר | החשבון שלי | קטלוג נקסט באינטרנט</title>
+        <username>belestereldan@gmail.com</username>
+        <password>bel135792</password>
+    </sign_in_page>
+
+    <home_wear_page>
+        <english>PREMIUM</english>
+        <hebrew>פרימיום</hebrew>
+        <search>שמלת ערב</search>
+        <search>מיטת נוער</search>
+        <search>וילונות</search>
+    </home_wear_page>
+    <product_page>
+        <color>לבן</color>
+        <color>כחול בהיר</color>
+        <size>2-3 שנים (UK ) (מידה אירופית 92-98ס״מ) - 84 ₪</size>
+        <size>3-4 שנים (UK ) (מידה אירופית 98-104ס״מ) - 84 ₪ - אזל המלאי</size>
+        <size>4-5 שנים (UK ) (מידה אירופית 104-110ס״מ) - 84 ₪</size>
+    </product_page>
+    <payment_page>
+        <card_number>4580800000002222</card_number>
+        <date_month>07</date_month>
+        <date_year>2024</date_year>
+        <code>444</code>
+        <card_hint_text>הזן מספר כרטיס תקין</card_hint_text>
+    </payment_page>
+</config>
